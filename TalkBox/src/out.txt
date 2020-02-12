@@ -1,0 +1,18 @@
+Wed Apr 03 21:20:05 EDT 2019:
+Reset button pressed
+Wed Apr 03 21:20:06 EDT 2019:
+Reset button pressed
+Wed Apr 03 21:20:07 EDT 2019:
+New Button added
+Wed Apr 03 21:20:12 EDT 2019:
+/Users/thanhhuynh146/Desktop/3311/git/TalkBox/TalkBox/icon/essential1/break.png	Icon added
+Wed Apr 03 21:20:15 EDT 2019:
+/Users/thanhhuynh146/Desktop/3311/git/TalkBox/TalkBox/sounds/essentials1_f/goodbye.wav	Sound added
+Wed Apr 03 21:20:17 EDT 2019:
+Recording
+Wed Apr 03 21:20:19 EDT 2019:
+Stop Recording
+Wed Apr 03 21:20:20 EDT 2019:
+Record file saved
+Wed Apr 03 21:20:28 EDT 2019:
+New Set added
